@@ -834,58 +834,6 @@
   <Battle>
     <Competitors>
       <Competitor_1>Issei</Competitor_1>
-      <Competitor_2>Quick</Competitor_2>
-    </Competitors>
-    <Judges>
-      <Judge_1>Poe One</Judge_1>
-      <Judge_2>Goku</Judge_2>
-      <Judge_3>Storm</Judge_3>
-      <Judge_4>Crazy Legs</Judge_4>
-      <Judge_5>Narumi</Judge_5>
-      <Judge_6>Skim</Judge_6>
-      <Judge_7>Lil Cesar</Judge_7>
-    </Judges>
-    <Round>
-      <Judge_1_Scores>
-        <Physical>6.67</Physical>
-        <Artistic>5</Artistic>
-        <Interpretive>5.33</Interpretive>
-      </Judge_1_Scores>
-      <Judge_2_Scores>
-        <Physical>10.33</Physical>
-        <Artistic>5</Artistic>
-        <Interpretive>2.67</Interpretive>
-      </Judge_2_Scores>
-      <Judge_3_Scores>
-        <Physical>7</Physical>
-        <Artistic>4.67</Artistic>
-        <Interpretive>3.67</Interpretive>
-      </Judge_3_Scores>
-      <Judge_4_Scores>
-        <Physical>15</Physical>
-        <Artistic>3.67</Artistic>
-        <Interpretive>6</Interpretive>
-      </Judge_4_Scores>
-      <Judge_5_Scores>
-        <Physical>8</Physical>
-        <Artistic>8.67</Artistic>
-        <Interpretive>6</Interpretive>
-      </Judge_5_Scores>
-      <Judge_6_Scores>
-        <Physical>10.33</Physical>
-        <Artistic>-2</Artistic>
-        <Interpretive>3.67</Interpretive>
-      </Judge_6_Scores>
-      <Judge_7_Scores>
-        <Physical></Physical>
-        <Artistic></Artistic>
-        <Interpretive></Interpretive>
-      </Judge_7_Scores>
-    </Round>
-  </Battle>
-  <Battle>
-    <Competitors>
-      <Competitor_1>Issei</Competitor_1>
       <Competitor_2>Phil Wizard</Competitor_2>
     </Competitors>
     <Judges>
