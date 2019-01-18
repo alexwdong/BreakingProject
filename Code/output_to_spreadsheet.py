@@ -29,7 +29,7 @@ for battle in root:
     round_number = 0
     for round in round_list:
         round_number = round_number+1
-        out_file.write('Round' + str(round_number)+'\t')
+       
         
         physical_1 = float(round.find("Judge_1_Scores").find("Physical").text)
         artistic_1 = float(round.find("Judge_1_Scores").find("Artistic").text)

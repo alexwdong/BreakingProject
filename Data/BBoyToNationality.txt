@@ -2,7 +2,7 @@
 Poe One;USA
 Crazy Legs;USA
 Goku;USA
-Storm;German
+Storm;Germany
 Lil Cesar;USA
 Skim;Korea
 Narumi;Japanese
@@ -37,7 +37,7 @@ Victor;USA
 Beetle;Russia
 Lil Kev;France
 Kid Karam;United Kingdom
-Dr. Hill;Mexico
+Dr Hill;Mexico
 Kazuki Rock;Japan
 Thesis;USA
 Lil G;Venezuela
