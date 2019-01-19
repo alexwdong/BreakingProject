@@ -1,76 +1,80 @@
-Poe One, Goku, Storm, Crazy Legs, Narumi, Skim, Lil Cesar
-Round1	Issei	Quick	Japan	China	Round 1	6.67	5.0	5.33	10.33	5.0	2.67	7.0	4.67	3.67	4.67	4.33	4.0	15.0	3.67	6.0	8.0	-8.67	6.0	10.33	-2.0	3.67
-Poe One, Goku, Storm, Crazy Legs, Narumi, Skim, Lil Cesar
-Round1	Phil Wizard	Khalifa	Canada	France	Round 1	3.0	2.33	2.33	-5.33	3.67	-3.33	2.33	3.67	4.0	3.67	4.0	3.0	3.67	11.0	5.0	-1.0	4.33	1.33	-5.0	4.0	-2.67
-Poe One, Goku, Storm, Crazy Legs, Narumi, Skim, Lil Cesar
-Round1	Fleau	Lussy Sky	Canada	Ukraine	Round 1	2.33	-2.33	-2.0	1.67	-2.33	-5.33	-2.67	-5.67	-4.67	-4.67	-3.67	-4.0	3.0	-3.67	-1.33	-6.67	-6.67	-4.67	-3.67	-3.0	-2.0
-Poe One, Goku, Storm, Crazy Legs, Narumi, Skim, Lil Cesar
-Round1	Zeku	Wild Jerry	USA	Belarus	Round 1	-2.33	-2.0	-2.67	-3.67	0.0	-3.67	3.67	7.0	5.0	4.0	3.0	3.33	3.67	-7.33	-3.0	5.0	-6.0	-2.33	9.33	3.33	2.67
-Poe One, Goku, Storm, Crazy Legs, Narumi, Jeskilz, Lil Cesar
-Round1	Hong 10	Ives	Korea	USA	Round 1	-3.0	2.33	2.33	-4.0	3.0	-3.0	0.67	1.33	0.0	2.33	2.67	2.67	5.67	-1.67	2.33	2.0	0.0	0.0	-2.33	6.33	4.67
-Poe One, Goku, Storm, Crazy Legs, Narumi, Skim, Lil Cesar
-Round1	Shigekix	Morris	Japan	USA	Round 1	1.33	1.33	2.0	4.67	-1.0	3.67	-1.0	1.67	3.0	5.0	4.0	3.33	6.33	0.0	3.0	3.0	-1.0	1.33	5.67	-1.33	4.67
-Poe One, Goku, Storm, Crazy Legs, Narumi, Skim, Lil Cesar
-Round1	Stripes	Heat Rock	USA	USA	Round 1	3.0	2.67	2.67	6.33	-1.33	6.0	3.33	-1.0	-1.67	-3.67	-2.67	-4.33	6.67	3.67	1.67	7.0	3.0	-2.33	10.33	-1.67	5.67
-Poe One, Goku, Storm, Crazy Legs, Narumi, Renegade, Lil Cesar
-Round1	Vero	Gravity	South Korea	USA	Round 1	-3.0	-2.33	-2.67	-3.33	4.33	4.67	-4.0	-0.67	3.67	3.0	-2.67	3.0	6.33	3.33	0.67	-7.0	3.0	-5.67	-3.33	3.67	-1.67
-Poe One, Goku, Storm, Crazy Legs, Narumi, Skim, Lil Cesar
-Round1	Menno	Wingzero	Netherlands	Japan	Round 1	3.67	3.0	-2.0	1.67	-9.67	-5.0	2.0	2.0	-1.33	-3.0	2.33	-4.33	2.33	-5.0	1.67	5.33	4.0	-6.0	2.33	-2.0	-1.33
-Poe One, Goku, Storm, Crazy Legs, Narumi, Skim, Lil Cesar
-Round1	Bumblebee	Khalil	Russia	France	Round 1	-5.33	-3.33	-4.67	-4.0	-2.67	-3.33	0.0	-1.0	-1.0	-4.0	-3.67	-3.0	-3.33	-7.67	-0.33	3.33	-4.67	-2.0	4.0	3.0	-2.0
-Poe One, Goku, Storm, Crazy Legs, Narumi, Skim, Lil Cesar
-Round1	Kuzya	Pocket	Russia	South Korea	Round 1	-2.67	-0.67	2.0	-2.67	3.67	4.33	-3.67	3.67	1.33	-2.67	4.0	3.67	-7.33	3.33	6.0	-4.0	4.0	-1.0	-7.0	3.67	-3.0
-Poe One, Goku, Storm, Crazy Legs, Narumi, Skim, Lil Cesar
-Round1	El Nino	Tata	USA	USA	Round 1	2.67	2.33	2.33	-6.33	-1.67	1.67	3.0	2.33	-1.33	4.33	4.0	5.33	2.33	2.67	0.0	-2.0	3.67	1.67	7.0	3.0	-1.67
-Poe One, Goku, Storm, Crazy Legs, Narumi, Skim, Lil Cesar
-Round1	Victor	Beetle	USA	Russia	Round 1	2.67	-1.67	2.33	2.67	3.0	3.0	0.0	-0.67	-1.0	2.33	-1.0	1.67	4.67	-5.0	0.67	2.33	2.33	2.33	-3.33	3.0	-1.67
-Poe One, Goku, Storm, Crazy Legs, Narumi, Skim, Lil Cesar
-Round1	Lil Kev	Kid Karam	France	United Kingdom	Round 1	-2.0	-2.0	-2.0	-1.67	-2.0	-7.0	2.0	-2.33	-5.0	3.33	3.67	-4.33	4.67	-2.67	0.0	4.0	-3.33	-1.33	5.33	-1.0	3.33
-Poe One, Goku, Storm, Crazy Legs, Jeskilz, Skim, Lil Cesar
-Round1	Dr Hill	Kazuki Rock	Mexico	Japan	Round 1	1.67	-1.67	-1.33	3.33	-11.0	-2.67	1.33	-0.33	-4.67	-2.67	-3.33	3.33	-0.33	0.0	0.0	-1.67	-2.0	-2.0	-3.33	2.0	-3.33
-Poe One, Goku, Storm, Crazy Legs, Narumi, Skim, Lil Cesar
-Round1	Thesis	Lil G	USA	Venezuela	Round 1	-2.0	2.67	2.0	-3.67	5.67	11.67	-1.33	2.0	2.33	-3.0	-3.0	3.33	8.67	3.33	3.33	-2.33	3.0	1.33	-7.67	2.33	-3.67
-Poe One, Goku, Storm, Crazy Legs, Narumi, Skim, Lil Cesar
-Round1	Issei	Phil Wizard	Japan	Canada	Round 1	4.0	2.67	2.67	5.0	0.33	6.67	6.0	-0.67	4.0	4.33	4.33	5.0	7.67	-3.33	3.67	4.0	-4.0	1.67	6.67	6.33	-2.67
-Round2	Issei	Phil Wizard	Japan	Canada	Round 2	2.33	-1.33	-2.33	5.33	3.0	2.33	-1.33	0.33	0.0	3.67	3.67	4.0	3.67	0.33	0.0	3.0	-1.67	0.0	6.33	4.67	-2.0
-Poe One, Goku, Storm, Crazy Legs, Narumi, Skim, Lil Cesar
-Round1	Lussy Sky	Wild Jerry	Ukraine	Belarus	Round 1	3.33	3.0	3.33	-3.67	4.67	-2.67	0.0	0.0	-2.0	-4.33	-3.33	-3.67	0.0	2.33	0.0	-0.67	3.0	2.33	-3.67	2.33	-2.33
-Round2	Lussy Sky	Wild Jerry	Ukraine	Belarus	Round 2	-1.67	2.33	-1.0	-4.0	0.0	-3.0	1.67	0.0	1.67	-3.0	-3.33	-2.33	0.0	2.0	0.0	-1.33	1.67	1.33	-2.0	2.67	-1.67
-Poe One, Goku, Storm, Crazy Legs, Narumi, Jeskilz, Lil Cesar
-Round1	Hong 10	Shigekix	Korea	Japan	Round 1	2.33	2.0	2.33	-4.67	2.67	-4.0	-3.0	-3.67	-2.0	-3.33	-3.0	-3.67	0.0	3.0	3.33	-2.0	0.0	0.0	-5.33	4.0	-1.33
-Round2	Hong 10	Shigekix	Korea	Japan	Round 2	-1.0	-1.67	-1.33	-8.0	3.33	-3.67	0.0	1.33	1.0	-4.0	-4.67	-2.67	0.0	1.0	0.0	-1.33	0.0	0.0	4.33	2.67	-3.33
-Poe One, Goku, Storm, Crazy Legs, Narumi, Jeskilz, Lil Cesar
-Round1	Stripes	Gravity	USA	USA	Round 1	-1.33	1.67	2.33	-4.33	0.0	0.33	-1.33	-2.0	-2.33	2.33	3.33	3.0	1.67	0.0	0.0	-3.33	3.0	1.33	4.0	-2.0	2.0
-Round2	Stripes	Gravity	USA	USA	Round 2	3.0	2.67	3.0	4.0	0.0	8.0	0.0	3.0	2.0	-3.33	-2.33	-2.67	-0.33	0.0	0.0	2.33	1.67	3.0	3.33	2.33	-1.67
-Poe One, Goku, Storm, Crazy Legs, Narumi, Skim, Lil Cesar
-Round1	Wingzero	Khalil	Japan	France	Round 1	-3.33	-2.67	-2.67	-7.0	0.0	-5.33	-1.33	3.67	-3.0	-2.67	-4.0	-4.33	-2.0	0.67	0.0	-3.67	4.67	2.33	-2.0	3.0	-2.0
-Round2	Wingzero	Khalil	Japan	France	Round 2	-2.33	-2.33	2.0	-0.67	7.0	-5.0	-1.0	0.0	-1.67	-3.33	-4.0	-3.33	0.0	1.0	0.0	-1.67	-1.0	-1.0	-1.0	5.0	2.0
-Poe One, Goku, Storm, Crazy Legs, Narumi, Skim, Lil Cesar
-Round1	El Nino	Kuzya	USA	Russia	Round 1	-1.0	-2.0	-1.67	-4.0	1.67	-4.0	0.0	2.0	-3.0	-3.33	-3.33	-4.33	-5.33	0.0	-2.33	-3.33	-0.67	-3.67	-4.0	-2.0	-2.67
-Round2	El Nino	Kuzya	USA	Russia	Round 2	-2.0	1.67	-1.0	-4.67	3.67	-4.67	-2.33	0.0	-2.33	-3.33	-3.67	-4.0	3.0	3.33	0.0	-1.0	1.67	-1.0	-1.67	1.67	-3.67
-Poe One, Goku, Storm, Crazy Legs, Narumi, Skim, Lil Cesar
-Round1	Victor	Kid Karam	USA	United Kingdom	Round 1	2.67	2.67	3.0	-3.33	-2.67	-1.67	3.67	0.0	5.0	2.33	2.67	3.33	5.0	-1.67	3.0	4.0	2.0	3.0	4.67	-0.67	2.67
-Round2	Victor	Kid Karam	USA	United Kingdom	Round 2	-1.67	1.67	2.0	2.67	0.0	5.0	0.0	4.67	3.0	3.0	2.67	3.0	4.67	2.0	1.67	0.0	1.67	1.33	3.67	0.0	2.67
-Poe One, Goku, Storm, Crazy Legs, Renegade, Skim, Lil Cesar
-Round1	Kazuki Rock	Thesis	Japan	USA	Round 1	-1.67	-2.33	1.33	0.0	5.67	2.0	0.0	5.33	-1.0	4.0	4.67	3.67	-5.0	0.0	-4.33	1.33	2.0	-2.33	4.33	1.67	2.67
-Round2	Kazuki Rock	Thesis	Japan	USA	Round 2	2.33	2.33	2.33	3.33	3.0	0.0	0.0	4.0	7.0	4.0	5.0	3.67	0.0	5.0	4.67	0.0	2.67	1.33	4.33	3.67	1.67
-Poe One, Goku, Storm, Crazy Legs, Narumi, Skim, Lil Cesar
-Round1	Issei	Wild Jerry	Japan	Belarus	Round 1	4.0	2.67	3.0	4.33	2.33	0.0	5.0	3.33	3.67	4.0	4.0	3.33	6.67	3.67	0.0	2.33	1.67	-1.33	4.0	-0.33	5.0
-Round2	Issei	Wild Jerry	Japan	Belarus	Round 2	3.67	3.67	4.0	5.0	1.67	5.67	5.67	2.33	3.67	3.67	4.33	4.0	3.33	0.0	2.67	2.0	2.33	2.33	5.67	2.67	3.33
-Poe One, Goku, Storm, Crazy Legs, Narumi, Skim, Lil Cesar
-Round1	Shigekix	Stripes	Japan	USA	Round 1	-2.33	-2.67	-2.67	3.67	-3.33	-9.0	0.0	-0.67	-4.0	4.67	4.33	4.33	-1.33	-1.0	0.0	5.67	-3.0	-1.67	6.33	-2.0	3.33
-Round2	Shigekix	Stripes	Japan	USA	Round 2	-2.0	-2.33	-2.33	2.67	-1.67	-4.33	0.0	-1.67	0.0	3.33	4.33	5.33	-1.67	0.0	0.0	-1.0	-1.67	-2.33	-9.0	-1.33	-4.33
-Poe One, Goku, Storm, Crazy Legs, Narumi, Skim, Lil Cesar
-Round1	Khalil	El Nino	France	USA	Round 1	2.67	2.67	2.67	3.33	2.33	1.33	-1.67	0.0	-4.0	2.67	3.0	3.33	1.33	0.0	0.0	-0.67	3.67	1.0	-4.0	2.0	-1.0
-Round2	Khalil	El Nino	France	USA	Round 2	2.67	2.67	2.33	0.0	4.67	7.67	2.33	0.0	1.67	3.33	3.67	4.0	-0.67	0.0	0.0	1.67	3.0	2.0	5.67	4.0	-0.67
-Poe One, Goku, Storm, Crazy Legs, Renegade, Skim, Lil Cesar
-Round1	Victor	Kazuki Rock	USA	Japan	Round 1	2.33	2.33	2.33	3.33	3.33	0.0	3.0	-1.67	6.67	4.67	5.0	5.67	10.67	-4.67	5.0	2.0	3.0	1.67	10.0	-1.0	5.0
-Round2	Victor	Kazuki Rock	USA	Japan	Round 2	3.0	2.67	3.33	4.67	-2.33	3.33	7.0	-2.0	4.0	5.0	28.67	6.67	6.33	-5.67	5.0	0.0	-2.33	-0.67	6.0	-0.67	3.67
-Poe One, Goku, Storm, Crazy Legs, Renegade, Skim, Lil Cesar
-Round1	Issei	Stripes	Japan	USA	Round 1	2.33	-1.33	-1.67	-4.0	4.33	-3.0	0.0	3.0	3.0	-1.67	-3.0	-3.0	4.0	0.0	0.0	3.33	-3.33	0.67	-7.33	-1.0	3.33
-Round2	Issei	Stripes	Japan	USA	Round 2	2.67	2.67	2.67	5.67	4.0	2.33	2.0	1.67	0.0	4.0	4.0	4.33	2.0	0.0	0.0	2.0	1.33	2.33	6.33	3.0	-1.67
-Round3	Issei	Stripes	Japan	USA	Round 3	-2.67	-2.33	-3.33	-1.67	0.0	-5.67	0.0	1.33	2.33	-2.0	-2.33	-2.33	-1.33	0.0	0.0	1.67	-1.33	-1.0	5.33	3.67	-2.0
-Poe One, Goku, Storm, Crazy Legs, Narumi, Skim, Lil Cesar
-Round1	Khalil	Victor	France	USA	Round 1	-2.33	-2.0	2.33	4.67	4.67	-2.33	0.0	2.0	2.33	2.33	3.33	3.0	-1.33	1.0	0.0	-0.67	6.33	-2.33	-4.0	-1.0	3.33
-3	-4.0	-2.33	-2.33	-5.67	-7.67	-4.0	-2.0	-4.33	-3.67	-3.33	-3.33	-2.67	0.0	-2.33	-3.0	-3.33	-2.0	-4.67	-2.67	2.0Round3	Khalil	Victor	France	USA	Round 3	-2.33	-2.33	-2.0	-3.0	0.0	-3.0	-3.33	-2.0	-3.33	-2.33	-3.33	-3.67	-1.67	0.0	0.0	1.67	-2.0	-1.67	-3.0	3.33	-3.67Poe One, Goku, Storm, Crazy Legs, Narumi, Skim, Lil Cesar
-Round1	Stripes	Victor	USA	USA	Round 1	-2.0	-2.0	-2.33	-3.67	-2.0	3.0	-2.67	0.0	-1.67	-5.33	-3.0	-3.67	-6.33	-5.67	0.0	-4.33	-0.67	-2.0	-2.33	3.33	2.67Round2	Stripes	Victor	USA	USA	Round 2	-3.33	-3.0	-2.33	-2.33	0.0	-2.0	0.0	2.67	2.33	-3.0	-4.0	-4.0	4.67	0.0	0.0	-1.0	3.0	-0.67	-4.0	-0.67	3.67Round3	Stripes	Victor	USA	USA	Round 3	-2.33	-2.33	-2.67	0.0	0.0	4.0	0.0	0.0	-3.0	-2.67	-3.33	-3.33	0.0	2.0	0.0	-1.67	-1.67	-1.0	-5.67	-2.33	-1.67
+Competitor 1	Competitor 2	Nationality 1	Nationality 2	Round	Poe One Physical	Poe One Artistic	Poe One Interpretive	Goku Physical	Goku Artistic	Goku Interpretive	Storm Physical	Storm Artistic	Storm Interpretive	Crazy Legs Physical	Crazy Legs Artistic	Crazy Legs Interpretive	Narumi Physical	Narumi Artistic	Narumi Interpretive	Skim Physical	Skim Artistic	Skim Interpretive	Lil Cesar Physical	Lil Cesar Artistic	Lil Cesar Interpretive
+Issei	Quick	Japan	China	Round 1	6.67	5.0	5.33	10.33	5.0	2.67	7.0	4.67	3.67	4.67	4.33	4.0	15.0	3.67	6.0	8.0	-8.67	6.0	10.33	-2.0	3.67
+Competitor 1	Competitor 2	Nationality 1	Nationality 2	Round	Poe One Physical	Poe One Artistic	Poe One Interpretive	Goku Physical	Goku Artistic	Goku Interpretive	Storm Physical	Storm Artistic	Storm Interpretive	Crazy Legs Physical	Crazy Legs Artistic	Crazy Legs Interpretive	Narumi Physical	Narumi Artistic	Narumi Interpretive	Skim Physical	Skim Artistic	Skim Interpretive	Lil Cesar Physical	Lil Cesar Artistic	Lil Cesar Interpretive
+Phil Wizard	Khalifa	Canada	France	Round 1	3.0	2.33	2.33	-5.33	3.67	-3.33	2.33	3.67	4.0	3.67	4.0	3.0	3.67	11.0	5.0	-1.0	4.33	1.33	-5.0	4.0	-2.67
+Competitor 1	Competitor 2	Nationality 1	Nationality 2	Round	Poe One Physical	Poe One Artistic	Poe One Interpretive	Goku Physical	Goku Artistic	Goku Interpretive	Storm Physical	Storm Artistic	Storm Interpretive	Crazy Legs Physical	Crazy Legs Artistic	Crazy Legs Interpretive	Narumi Physical	Narumi Artistic	Narumi Interpretive	Skim Physical	Skim Artistic	Skim Interpretive	Lil Cesar Physical	Lil Cesar Artistic	Lil Cesar Interpretive
+Fleau	Lussy Sky	Canada	Ukraine	Round 1	2.33	-2.33	-2.0	1.67	-2.33	-5.33	-2.67	-5.67	-4.67	-4.67	-3.67	-4.0	3.0	-3.67	-1.33	-6.67	-6.67	-4.67	-3.67	-3.0	-2.0
+Competitor 1	Competitor 2	Nationality 1	Nationality 2	Round	Poe One Physical	Poe One Artistic	Poe One Interpretive	Goku Physical	Goku Artistic	Goku Interpretive	Storm Physical	Storm Artistic	Storm Interpretive	Crazy Legs Physical	Crazy Legs Artistic	Crazy Legs Interpretive	Narumi Physical	Narumi Artistic	Narumi Interpretive	Skim Physical	Skim Artistic	Skim Interpretive	Lil Cesar Physical	Lil Cesar Artistic	Lil Cesar Interpretive
+Zeku	Wild Jerry	USA	Belarus	Round 1	-2.33	-2.0	-2.67	-3.67	0.0	-3.67	3.67	7.0	5.0	4.0	3.0	3.33	3.67	-7.33	-3.0	5.0	-6.0	-2.33	9.33	3.33	2.67
+Competitor 1	Competitor 2	Nationality 1	Nationality 2	Round	Poe One Physical	Poe One Artistic	Poe One Interpretive	Goku Physical	Goku Artistic	Goku Interpretive	Storm Physical	Storm Artistic	Storm Interpretive	Crazy Legs Physical	Crazy Legs Artistic	Crazy Legs Interpretive	Narumi Physical	Narumi Artistic	Narumi Interpretive	Jeskilz Physical	Jeskilz Artistic	Jeskilz Interpretive	Lil Cesar Physical	Lil Cesar Artistic	Lil Cesar Interpretive
+Hong 10	Ives	Korea	USA	Round 1	-3.0	2.33	2.33	-4.0	3.0	-3.0	0.67	1.33	0.0	2.33	2.67	2.67	5.67	-1.67	2.33	2.0	0.0	0.0	-2.33	6.33	4.67
+Competitor 1	Competitor 2	Nationality 1	Nationality 2	Round	Poe One Physical	Poe One Artistic	Poe One Interpretive	Goku Physical	Goku Artistic	Goku Interpretive	Storm Physical	Storm Artistic	Storm Interpretive	Crazy Legs Physical	Crazy Legs Artistic	Crazy Legs Interpretive	Narumi Physical	Narumi Artistic	Narumi Interpretive	Skim Physical	Skim Artistic	Skim Interpretive	Lil Cesar Physical	Lil Cesar Artistic	Lil Cesar Interpretive
+Shigekix	Morris	Japan	USA	Round 1	1.33	1.33	2.0	4.67	-1.0	3.67	-1.0	1.67	3.0	5.0	4.0	3.33	6.33	0.0	3.0	3.0	-1.0	1.33	5.67	-1.33	4.67
+Competitor 1	Competitor 2	Nationality 1	Nationality 2	Round	Poe One Physical	Poe One Artistic	Poe One Interpretive	Goku Physical	Goku Artistic	Goku Interpretive	Storm Physical	Storm Artistic	Storm Interpretive	Crazy Legs Physical	Crazy Legs Artistic	Crazy Legs Interpretive	Narumi Physical	Narumi Artistic	Narumi Interpretive	Skim Physical	Skim Artistic	Skim Interpretive	Lil Cesar Physical	Lil Cesar Artistic	Lil Cesar Interpretive
+Stripes	Heat Rock	USA	USA	Round 1	3.0	2.67	2.67	6.33	-1.33	6.0	3.33	-1.0	-1.67	-3.67	-2.67	-4.33	6.67	3.67	1.67	7.0	3.0	-2.33	10.33	-1.67	5.67
+Competitor 1	Competitor 2	Nationality 1	Nationality 2	Round	Poe One Physical	Poe One Artistic	Poe One Interpretive	Goku Physical	Goku Artistic	Goku Interpretive	Storm Physical	Storm Artistic	Storm Interpretive	Crazy Legs Physical	Crazy Legs Artistic	Crazy Legs Interpretive	Narumi Physical	Narumi Artistic	Narumi Interpretive	Renegade Physical	Renegade Artistic	Renegade Interpretive	Lil Cesar Physical	Lil Cesar Artistic	Lil Cesar Interpretive
+Vero	Gravity	South Korea	USA	Round 1	-3.0	-2.33	-2.67	-3.33	4.33	4.67	-4.0	-0.67	3.67	3.0	-2.67	3.0	6.33	3.33	0.67	-7.0	3.0	-5.67	-3.33	3.67	-1.67
+Competitor 1	Competitor 2	Nationality 1	Nationality 2	Round	Poe One Physical	Poe One Artistic	Poe One Interpretive	Goku Physical	Goku Artistic	Goku Interpretive	Storm Physical	Storm Artistic	Storm Interpretive	Crazy Legs Physical	Crazy Legs Artistic	Crazy Legs Interpretive	Narumi Physical	Narumi Artistic	Narumi Interpretive	Skim Physical	Skim Artistic	Skim Interpretive	Lil Cesar Physical	Lil Cesar Artistic	Lil Cesar Interpretive
+Menno	Wingzero	Netherlands	Japan	Round 1	3.67	3.0	-2.0	1.67	-9.67	-5.0	2.0	2.0	-1.33	-3.0	2.33	-4.33	2.33	-5.0	1.67	5.33	4.0	-6.0	2.33	-2.0	-1.33
+Competitor 1	Competitor 2	Nationality 1	Nationality 2	Round	Poe One Physical	Poe One Artistic	Poe One Interpretive	Goku Physical	Goku Artistic	Goku Interpretive	Storm Physical	Storm Artistic	Storm Interpretive	Crazy Legs Physical	Crazy Legs Artistic	Crazy Legs Interpretive	Narumi Physical	Narumi Artistic	Narumi Interpretive	Skim Physical	Skim Artistic	Skim Interpretive	Lil Cesar Physical	Lil Cesar Artistic	Lil Cesar Interpretive
+Bumblebee	Khalil	Russia	France	Round 1	-5.33	-3.33	-4.67	-4.0	-2.67	-3.33	0.0	-1.0	-1.0	-4.0	-3.67	-3.0	-3.33	-7.67	-0.33	3.33	-4.67	-2.0	4.0	3.0	-2.0
+Competitor 1	Competitor 2	Nationality 1	Nationality 2	Round	Poe One Physical	Poe One Artistic	Poe One Interpretive	Goku Physical	Goku Artistic	Goku Interpretive	Storm Physical	Storm Artistic	Storm Interpretive	Crazy Legs Physical	Crazy Legs Artistic	Crazy Legs Interpretive	Narumi Physical	Narumi Artistic	Narumi Interpretive	Skim Physical	Skim Artistic	Skim Interpretive	Lil Cesar Physical	Lil Cesar Artistic	Lil Cesar Interpretive
+Kuzya	Pocket	Russia	South Korea	Round 1	-2.67	-0.67	2.0	-2.67	3.67	4.33	-3.67	3.67	1.33	-2.67	4.0	3.67	-7.33	3.33	6.0	-4.0	4.0	-1.0	-7.0	3.67	-3.0
+Competitor 1	Competitor 2	Nationality 1	Nationality 2	Round	Poe One Physical	Poe One Artistic	Poe One Interpretive	Goku Physical	Goku Artistic	Goku Interpretive	Storm Physical	Storm Artistic	Storm Interpretive	Crazy Legs Physical	Crazy Legs Artistic	Crazy Legs Interpretive	Narumi Physical	Narumi Artistic	Narumi Interpretive	Skim Physical	Skim Artistic	Skim Interpretive	Lil Cesar Physical	Lil Cesar Artistic	Lil Cesar Interpretive
+El Nino	Tata	USA	USA	Round 1	2.67	2.33	2.33	-6.33	-1.67	1.67	3.0	2.33	-1.33	4.33	4.0	5.33	2.33	2.67	0.0	-2.0	3.67	1.67	7.0	3.0	-1.67
+Competitor 1	Competitor 2	Nationality 1	Nationality 2	Round	Poe One Physical	Poe One Artistic	Poe One Interpretive	Goku Physical	Goku Artistic	Goku Interpretive	Storm Physical	Storm Artistic	Storm Interpretive	Crazy Legs Physical	Crazy Legs Artistic	Crazy Legs Interpretive	Narumi Physical	Narumi Artistic	Narumi Interpretive	Skim Physical	Skim Artistic	Skim Interpretive	Lil Cesar Physical	Lil Cesar Artistic	Lil Cesar Interpretive
+Victor	Beetle	USA	Russia	Round 1	2.67	-1.67	2.33	2.67	3.0	3.0	0.0	-0.67	-1.0	2.33	-1.0	1.67	4.67	-5.0	0.67	2.33	2.33	2.33	-3.33	3.0	-1.67
+Competitor 1	Competitor 2	Nationality 1	Nationality 2	Round	Poe One Physical	Poe One Artistic	Poe One Interpretive	Goku Physical	Goku Artistic	Goku Interpretive	Storm Physical	Storm Artistic	Storm Interpretive	Crazy Legs Physical	Crazy Legs Artistic	Crazy Legs Interpretive	Narumi Physical	Narumi Artistic	Narumi Interpretive	Skim Physical	Skim Artistic	Skim Interpretive	Lil Cesar Physical	Lil Cesar Artistic	Lil Cesar Interpretive
+Lil Kev	Kid Karam	France	United Kingdom	Round 1	-2.0	-2.0	-2.0	-1.67	-2.0	-7.0	2.0	-2.33	-5.0	3.33	3.67	-4.33	4.67	-2.67	0.0	4.0	-3.33	-1.33	5.33	-1.0	3.33
+Competitor 1	Competitor 2	Nationality 1	Nationality 2	Round	Poe One Physical	Poe One Artistic	Poe One Interpretive	Goku Physical	Goku Artistic	Goku Interpretive	Storm Physical	Storm Artistic	Storm Interpretive	Crazy Legs Physical	Crazy Legs Artistic	Crazy Legs Interpretive	Jeskilz Physical	Jeskilz Artistic	Jeskilz Interpretive	Skim Physical	Skim Artistic	Skim Interpretive	Lil Cesar Physical	Lil Cesar Artistic	Lil Cesar Interpretive
+Dr Hill	Kazuki Rock	Mexico	Japan	Round 1	1.67	-1.67	-1.33	3.33	-11.0	-2.67	1.33	-0.33	-4.67	-2.67	-3.33	3.33	-0.33	0.0	0.0	-1.67	-2.0	-2.0	-3.33	2.0	-3.33
+Competitor 1	Competitor 2	Nationality 1	Nationality 2	Round	Poe One Physical	Poe One Artistic	Poe One Interpretive	Goku Physical	Goku Artistic	Goku Interpretive	Storm Physical	Storm Artistic	Storm Interpretive	Crazy Legs Physical	Crazy Legs Artistic	Crazy Legs Interpretive	Narumi Physical	Narumi Artistic	Narumi Interpretive	Skim Physical	Skim Artistic	Skim Interpretive	Lil Cesar Physical	Lil Cesar Artistic	Lil Cesar Interpretive
+Thesis	Lil G	USA	Venezuela	Round 1	-2.0	2.67	2.0	-3.67	5.67	11.67	-1.33	2.0	2.33	-3.0	-3.0	3.33	8.67	3.33	3.33	-2.33	3.0	1.33	-7.67	2.33	-3.67
+Competitor 1	Competitor 2	Nationality 1	Nationality 2	Round	Poe One Physical	Poe One Artistic	Poe One Interpretive	Goku Physical	Goku Artistic	Goku Interpretive	Storm Physical	Storm Artistic	Storm Interpretive	Crazy Legs Physical	Crazy Legs Artistic	Crazy Legs Interpretive	Narumi Physical	Narumi Artistic	Narumi Interpretive	Skim Physical	Skim Artistic	Skim Interpretive	Lil Cesar Physical	Lil Cesar Artistic	Lil Cesar Interpretive
+Issei	Phil Wizard	Japan	Canada	Round 1	4.0	2.67	2.67	5.0	0.33	6.67	6.0	-0.67	4.0	4.33	4.33	5.0	7.67	-3.33	3.67	4.0	-4.0	1.67	6.67	6.33	-2.67
+Issei	Phil Wizard	Japan	Canada	Round 2	2.33	-1.33	-2.33	5.33	3.0	2.33	-1.33	0.33	0.0	3.67	3.67	4.0	3.67	0.33	0.0	3.0	-1.67	0.0	6.33	4.67	-2.0
+Competitor 1	Competitor 2	Nationality 1	Nationality 2	Round	Poe One Physical	Poe One Artistic	Poe One Interpretive	Goku Physical	Goku Artistic	Goku Interpretive	Storm Physical	Storm Artistic	Storm Interpretive	Crazy Legs Physical	Crazy Legs Artistic	Crazy Legs Interpretive	Narumi Physical	Narumi Artistic	Narumi Interpretive	Skim Physical	Skim Artistic	Skim Interpretive	Lil Cesar Physical	Lil Cesar Artistic	Lil Cesar Interpretive
+Lussy Sky	Wild Jerry	Ukraine	Belarus	Round 1	3.33	3.0	3.33	-3.67	4.67	-2.67	0.0	0.0	-2.0	-4.33	-3.33	-3.67	0.0	2.33	0.0	-0.67	3.0	2.33	-3.67	2.33	-2.33
+Lussy Sky	Wild Jerry	Ukraine	Belarus	Round 2	-1.67	2.33	-1.0	-4.0	0.0	-3.0	1.67	0.0	1.67	-3.0	-3.33	-2.33	0.0	2.0	0.0	-1.33	1.67	1.33	-2.0	2.67	-1.67
+Competitor 1	Competitor 2	Nationality 1	Nationality 2	Round	Poe One Physical	Poe One Artistic	Poe One Interpretive	Goku Physical	Goku Artistic	Goku Interpretive	Storm Physical	Storm Artistic	Storm Interpretive	Crazy Legs Physical	Crazy Legs Artistic	Crazy Legs Interpretive	Narumi Physical	Narumi Artistic	Narumi Interpretive	Jeskilz Physical	Jeskilz Artistic	Jeskilz Interpretive	Lil Cesar Physical	Lil Cesar Artistic	Lil Cesar Interpretive
+Hong 10	Shigekix	Korea	Japan	Round 1	2.33	2.0	2.33	-4.67	2.67	-4.0	-3.0	-3.67	-2.0	-3.33	-3.0	-3.67	0.0	3.0	3.33	-2.0	0.0	0.0	-5.33	4.0	-1.33
+Hong 10	Shigekix	Korea	Japan	Round 2	-1.0	-1.67	-1.33	-8.0	3.33	-3.67	0.0	1.33	1.0	-4.0	-4.67	-2.67	0.0	1.0	0.0	-1.33	0.0	0.0	4.33	2.67	-3.33
+Competitor 1	Competitor 2	Nationality 1	Nationality 2	Round	Poe One Physical	Poe One Artistic	Poe One Interpretive	Goku Physical	Goku Artistic	Goku Interpretive	Storm Physical	Storm Artistic	Storm Interpretive	Crazy Legs Physical	Crazy Legs Artistic	Crazy Legs Interpretive	Narumi Physical	Narumi Artistic	Narumi Interpretive	Jeskilz Physical	Jeskilz Artistic	Jeskilz Interpretive	Lil Cesar Physical	Lil Cesar Artistic	Lil Cesar Interpretive
+Stripes	Gravity	USA	USA	Round 1	-1.33	1.67	2.33	-4.33	0.0	0.33	-1.33	-2.0	-2.33	2.33	3.33	3.0	1.67	0.0	0.0	-3.33	3.0	1.33	4.0	-2.0	2.0
+Stripes	Gravity	USA	USA	Round 2	3.0	2.67	3.0	4.0	0.0	8.0	0.0	3.0	2.0	-3.33	-2.33	-2.67	-0.33	0.0	0.0	2.33	1.67	3.0	3.33	2.33	-1.67
+Competitor 1	Competitor 2	Nationality 1	Nationality 2	Round	Poe One Physical	Poe One Artistic	Poe One Interpretive	Goku Physical	Goku Artistic	Goku Interpretive	Storm Physical	Storm Artistic	Storm Interpretive	Crazy Legs Physical	Crazy Legs Artistic	Crazy Legs Interpretive	Narumi Physical	Narumi Artistic	Narumi Interpretive	Skim Physical	Skim Artistic	Skim Interpretive	Lil Cesar Physical	Lil Cesar Artistic	Lil Cesar Interpretive
+Wingzero	Khalil	Japan	France	Round 1	-3.33	-2.67	-2.67	-7.0	0.0	-5.33	-1.33	3.67	-3.0	-2.67	-4.0	-4.33	-2.0	0.67	0.0	-3.67	4.67	2.33	-2.0	3.0	-2.0
+Wingzero	Khalil	Japan	France	Round 2	-2.33	-2.33	2.0	-0.67	7.0	-5.0	-1.0	0.0	-1.67	-3.33	-4.0	-3.33	0.0	1.0	0.0	-1.67	-1.0	-1.0	-1.0	5.0	2.0
+Competitor 1	Competitor 2	Nationality 1	Nationality 2	Round	Poe One Physical	Poe One Artistic	Poe One Interpretive	Goku Physical	Goku Artistic	Goku Interpretive	Storm Physical	Storm Artistic	Storm Interpretive	Crazy Legs Physical	Crazy Legs Artistic	Crazy Legs Interpretive	Narumi Physical	Narumi Artistic	Narumi Interpretive	Skim Physical	Skim Artistic	Skim Interpretive	Lil Cesar Physical	Lil Cesar Artistic	Lil Cesar Interpretive
+El Nino	Kuzya	USA	Russia	Round 1	-1.0	-2.0	-1.67	-4.0	1.67	-4.0	0.0	2.0	-3.0	-3.33	-3.33	-4.33	-5.33	0.0	-2.33	-3.33	-0.67	-3.67	-4.0	-2.0	-2.67
+El Nino	Kuzya	USA	Russia	Round 2	-2.0	1.67	-1.0	-4.67	3.67	-4.67	-2.33	0.0	-2.33	-3.33	-3.67	-4.0	3.0	3.33	0.0	-1.0	1.67	-1.0	-1.67	1.67	-3.67
+Competitor 1	Competitor 2	Nationality 1	Nationality 2	Round	Poe One Physical	Poe One Artistic	Poe One Interpretive	Goku Physical	Goku Artistic	Goku Interpretive	Storm Physical	Storm Artistic	Storm Interpretive	Crazy Legs Physical	Crazy Legs Artistic	Crazy Legs Interpretive	Narumi Physical	Narumi Artistic	Narumi Interpretive	Skim Physical	Skim Artistic	Skim Interpretive	Lil Cesar Physical	Lil Cesar Artistic	Lil Cesar Interpretive
+Victor	Kid Karam	USA	United Kingdom	Round 1	2.67	2.67	3.0	-3.33	-2.67	-1.67	3.67	0.0	5.0	2.33	2.67	3.33	5.0	-1.67	3.0	4.0	2.0	3.0	4.67	-0.67	2.67
+Victor	Kid Karam	USA	United Kingdom	Round 2	-1.67	1.67	2.0	2.67	0.0	5.0	0.0	4.67	3.0	3.0	2.67	3.0	4.67	2.0	1.67	0.0	1.67	1.33	3.67	0.0	2.67
+Competitor 1	Competitor 2	Nationality 1	Nationality 2	Round	Poe One Physical	Poe One Artistic	Poe One Interpretive	Goku Physical	Goku Artistic	Goku Interpretive	Storm Physical	Storm Artistic	Storm Interpretive	Crazy Legs Physical	Crazy Legs Artistic	Crazy Legs Interpretive	Renegade Physical	Renegade Artistic	Renegade Interpretive	Skim Physical	Skim Artistic	Skim Interpretive	Lil Cesar Physical	Lil Cesar Artistic	Lil Cesar Interpretive
+Kazuki Rock	Thesis	Japan	USA	Round 1	-1.67	-2.33	1.33	0.0	5.67	2.0	0.0	5.33	-1.0	4.0	4.67	3.67	-5.0	0.0	-4.33	1.33	2.0	-2.33	4.33	1.67	2.67
+Kazuki Rock	Thesis	Japan	USA	Round 2	2.33	2.33	2.33	3.33	3.0	0.0	0.0	4.0	7.0	4.0	5.0	3.67	0.0	5.0	4.67	0.0	2.67	1.33	4.33	3.67	1.67
+Competitor 1	Competitor 2	Nationality 1	Nationality 2	Round	Poe One Physical	Poe One Artistic	Poe One Interpretive	Goku Physical	Goku Artistic	Goku Interpretive	Storm Physical	Storm Artistic	Storm Interpretive	Crazy Legs Physical	Crazy Legs Artistic	Crazy Legs Interpretive	Narumi Physical	Narumi Artistic	Narumi Interpretive	Skim Physical	Skim Artistic	Skim Interpretive	Lil Cesar Physical	Lil Cesar Artistic	Lil Cesar Interpretive
+Issei	Wild Jerry	Japan	Belarus	Round 1	4.0	2.67	3.0	4.33	2.33	0.0	5.0	3.33	3.67	4.0	4.0	3.33	6.67	3.67	0.0	2.33	1.67	-1.33	4.0	-0.33	5.0
+Issei	Wild Jerry	Japan	Belarus	Round 2	3.67	3.67	4.0	5.0	1.67	5.67	5.67	2.33	3.67	3.67	4.33	4.0	3.33	0.0	2.67	2.0	2.33	2.33	5.67	2.67	3.33
+Competitor 1	Competitor 2	Nationality 1	Nationality 2	Round	Poe One Physical	Poe One Artistic	Poe One Interpretive	Goku Physical	Goku Artistic	Goku Interpretive	Storm Physical	Storm Artistic	Storm Interpretive	Crazy Legs Physical	Crazy Legs Artistic	Crazy Legs Interpretive	Narumi Physical	Narumi Artistic	Narumi Interpretive	Skim Physical	Skim Artistic	Skim Interpretive	Lil Cesar Physical	Lil Cesar Artistic	Lil Cesar Interpretive
+Shigekix	Stripes	Japan	USA	Round 1	-2.33	-2.67	-2.67	3.67	-3.33	-9.0	0.0	-0.67	-4.0	4.67	4.33	4.33	-1.33	-1.0	0.0	5.67	-3.0	-1.67	6.33	-2.0	3.33
+Shigekix	Stripes	Japan	USA	Round 2	-2.0	-2.33	-2.33	2.67	-1.67	-4.33	0.0	-1.67	0.0	3.33	4.33	5.33	-1.67	0.0	0.0	-1.0	-1.67	-2.33	-9.0	-1.33	-4.33
+Competitor 1	Competitor 2	Nationality 1	Nationality 2	Round	Poe One Physical	Poe One Artistic	Poe One Interpretive	Goku Physical	Goku Artistic	Goku Interpretive	Storm Physical	Storm Artistic	Storm Interpretive	Crazy Legs Physical	Crazy Legs Artistic	Crazy Legs Interpretive	Narumi Physical	Narumi Artistic	Narumi Interpretive	Skim Physical	Skim Artistic	Skim Interpretive	Lil Cesar Physical	Lil Cesar Artistic	Lil Cesar Interpretive
+Khalil	El Nino	France	USA	Round 1	2.67	2.67	2.67	3.33	2.33	1.33	-1.67	0.0	-4.0	2.67	3.0	3.33	1.33	0.0	0.0	-0.67	3.67	1.0	-4.0	2.0	-1.0
+Khalil	El Nino	France	USA	Round 2	2.67	2.67	2.33	0.0	4.67	7.67	2.33	0.0	1.67	3.33	3.67	4.0	-0.67	0.0	0.0	1.67	3.0	2.0	5.67	4.0	-0.67
+Competitor 1	Competitor 2	Nationality 1	Nationality 2	Round	Poe One Physical	Poe One Artistic	Poe One Interpretive	Goku Physical	Goku Artistic	Goku Interpretive	Storm Physical	Storm Artistic	Storm Interpretive	Crazy Legs Physical	Crazy Legs Artistic	Crazy Legs Interpretive	Renegade Physical	Renegade Artistic	Renegade Interpretive	Skim Physical	Skim Artistic	Skim Interpretive	Lil Cesar Physical	Lil Cesar Artistic	Lil Cesar Interpretive
+Victor	Kazuki Rock	USA	Japan	Round 1	2.33	2.33	2.33	3.33	3.33	0.0	3.0	-1.67	6.67	4.67	5.0	5.67	10.67	-4.67	5.0	2.0	3.0	1.67	10.0	-1.0	5.0
+Victor	Kazuki Rock	USA	Japan	Round 2	3.0	2.67	3.33	4.67	-2.33	3.33	7.0	-2.0	4.0	5.0	28.67	6.67	6.33	-5.67	5.0	0.0	-2.33	-0.67	6.0	-0.67	3.67
+Competitor 1	Competitor 2	Nationality 1	Nationality 2	Round	Poe One Physical	Poe One Artistic	Poe One Interpretive	Goku Physical	Goku Artistic	Goku Interpretive	Storm Physical	Storm Artistic	Storm Interpretive	Crazy Legs Physical	Crazy Legs Artistic	Crazy Legs Interpretive	Renegade Physical	Renegade Artistic	Renegade Interpretive	Skim Physical	Skim Artistic	Skim Interpretive	Lil Cesar Physical	Lil Cesar Artistic	Lil Cesar Interpretive
+Issei	Stripes	Japan	USA	Round 1	2.33	-1.33	-1.67	-4.0	4.33	-3.0	0.0	3.0	3.0	-1.67	-3.0	-3.0	4.0	0.0	0.0	3.33	-3.33	0.67	-7.33	-1.0	3.33
+Issei	Stripes	Japan	USA	Round 2	2.67	2.67	2.67	5.67	4.0	2.33	2.0	1.67	0.0	4.0	4.0	4.33	2.0	0.0	0.0	2.0	1.33	2.33	6.33	3.0	-1.67
+Issei	Stripes	Japan	USA	Round 3	-2.67	-2.33	-3.33	-1.67	0.0	-5.67	0.0	1.33	2.33	-2.0	-2.33	-2.33	-1.33	0.0	0.0	1.67	-1.33	-1.0	5.33	3.67	-2.0
+Competitor 1	Competitor 2	Nationality 1	Nationality 2	Round	Poe One Physical	Poe One Artistic	Poe One Interpretive	Goku Physical	Goku Artistic	Goku Interpretive	Storm Physical	Storm Artistic	Storm Interpretive	Crazy Legs Physical	Crazy Legs Artistic	Crazy Legs Interpretive	Narumi Physical	Narumi Artistic	Narumi Interpretive	Skim Physical	Skim Artistic	Skim Interpretive	Lil Cesar Physical	Lil Cesar Artistic	Lil Cesar Interpretive
+Khalil	Victor	France	USA	Round 1	-2.33	-2.0	2.33	4.67	4.67	-2.33	0.0	2.0	2.33	2.33	3.33	3.0	-1.33	1.0	0.0	-0.67	6.33	-2.33	-4.0	-1.0	3.33
+Khalil	Victor	France	USA	Round 2	-2.33	-4.0	-2.33	-2.33	-5.67	-7.67	-4.0	-2.0	-4.33	-3.67	-3.33	-3.33	-2.67	0.0	-2.33	-3.0	-3.33	-2.0	-4.67	-2.67	2.0
+Khalil	Victor	France	USA	Round 3	-2.33	-2.33	-2.0	-3.0	0.0	-3.0	-3.33	-2.0	-3.33	-2.33	-3.33	-3.67	-1.67	0.0	0.0	1.67	-2.0	-1.67	-3.0	3.33	-3.67
+Competitor 1	Competitor 2	Nationality 1	Nationality 2	Round	Poe One Physical	Poe One Artistic	Poe One Interpretive	Goku Physical	Goku Artistic	Goku Interpretive	Storm Physical	Storm Artistic	Storm Interpretive	Crazy Legs Physical	Crazy Legs Artistic	Crazy Legs Interpretive	Narumi Physical	Narumi Artistic	Narumi Interpretive	Skim Physical	Skim Artistic	Skim Interpretive	Lil Cesar Physical	Lil Cesar Artistic	Lil Cesar Interpretive
+Stripes	Victor	USA	USA	Round 1	-2.0	-2.0	-2.33	-3.67	-2.0	3.0	-2.67	0.0	-1.67	-5.33	-3.0	-3.67	-6.33	-5.67	0.0	-4.33	-0.67	-2.0	-2.33	3.33	2.67
+Stripes	Victor	USA	USA	Round 2	-3.33	-3.0	-2.33	-2.33	0.0	-2.0	0.0	2.67	2.33	-3.0	-4.0	-4.0	4.67	0.0	0.0	-1.0	3.0	-0.67	-4.0	-0.67	3.67
+Stripes	Victor	USA	USA	Round 3	-2.33	-2.33	-2.67	0.0	0.0	4.0	0.0	0.0	-3.0	-2.67	-3.33	-3.33	0.0	2.0	0.0	-1.67	-1.67	-1.0	-5.67	-2.33	-1.67

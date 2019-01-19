@@ -24,7 +24,15 @@ for battle in root:
     judge_list.append(judges.find("Judge_5").text)
     judge_list.append(judges.find("Judge_6").text)
     judge_list.append(judges.find("Judge_7").text)
-    out_file.write(judge_list[0]+', '+judge_list[1]+', '+judge_list[2]+', '+judge_list[3]+', '+judge_list[4]+', '+judge_list[5]+', '+judge_list[6]+'\n')
+    out_file.write('Competitor 1'+'\t'+'Competitor 2'+'\t''Nationality 1'+'\t'+'Nationality 2'+'\t'+'Round'+'\t'
+                   +judge_list[0]+' Physical'+'\t'+judge_list[0]+' Artistic'+'\t'+judge_list[0]+' Interpretive'+'\t'
+                   +judge_list[1]+' Physical'+'\t'+judge_list[1]+' Artistic'+'\t'+judge_list[1]+' Interpretive'+'\t'
+                   +judge_list[2]+' Physical'+'\t'+judge_list[2]+' Artistic'+'\t'+judge_list[2]+' Interpretive'+'\t'
+                   +judge_list[3]+' Physical'+'\t'+judge_list[3]+' Artistic'+'\t'+judge_list[3]+' Interpretive'+'\t'
+                   +judge_list[4]+' Physical'+'\t'+judge_list[4]+' Artistic'+'\t'+judge_list[4]+' Interpretive'+'\t'
+                   +judge_list[5]+' Physical'+'\t'+judge_list[5]+' Artistic'+'\t'+judge_list[5]+' Interpretive'+'\t'
+                   +judge_list[6]+' Physical'+'\t'+judge_list[6]+' Artistic'+'\t'+judge_list[6]+' Interpretive'+'\n')
+    
     round_list = battle.findall("Round")
     round_number = 0
     for round in round_list:
