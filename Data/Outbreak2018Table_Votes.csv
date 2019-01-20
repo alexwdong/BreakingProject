@@ -1,0 +1,52 @@
+Battle Number,Battle Label,Round,Competitor 1,Competitor 2,First,Second,Round Winner,Round Winner Order,Battle Winner,Poe One,Hatsolo,Renegade,Max,Wing,Felix,Competitor 1 Votes,Competitor 2 Votes
+1,Top 32,Round 1,Exaggerate,Kid Karam,Exaggerate,Kid Karam,Kid Karam,Second,Kid Karam,1,1,1,1,1,NaN,0,5
+2,Top 32,Round 1,Gun,Sapa,Sapa,Gun,Gun,Second,Gun,-1,-1,1,1,-1,NaN,3,2
+3,Top 32,Round 1,Ayumi,The Wolfer,Ayumi,The Wolfer,Ayumi,First,Ayumi,-1,1,-1,-1,-1,NaN,4,1
+4,Top 32,Round 1,South Eagle,Beetle,Beetle,South Eagle,Beetle,First,Beetle,1,1,1,1,1,NaN,0,5
+5,Top 32,Round 1,Moa,Nord Diamond,Moa,Nord Diagmond,Nord Diamond,Second,Nord Diamond,-1,1,1,-1,1,NaN,2,3
+6,Top 32,Round 1,Xak,Dany,Xak,Dany,Dany,Second,Dany,1,1,1,1,1,NaN,0,5
+7,Top 32,Round 1,Kuzya,Kengo,Kengo,Kuzya,Kuzya,Second,Kengo,-1,-1,-1,-1,-1,NaN,5,0
+8,Top 32,Round 1,Kae,Funny666,Funny666,Kae,Kae,Second,Kae,-1,-1,-1,-1,-1,NaN,5,0
+9,Top 32,Round 1,Sofian,Sheku,Sheku,Sofian,Sheku,First,Sheku,1,-1,1,1,1,NaN,1,4
+10,Top 32,Round 1,LB,Ozzi,Ozzi,LB,LB,Second,LB,-1,-1,-1,-1,1,NaN,4,1
+11,Top 32,Round 1,Lil G,Zip Rock,Zip Rock,Lil G,Lil G,Second,Lil G,1,-1,1,-1,-1,NaN,3,2
+12,Top 32,Round 1,Dr Hill,Illz,Dr Hill,Illz,Illz,Second,Illz,1,1,-1,-1,1,NaN,2,3
+13,Top 32,Round 1,Gieras,Cyga,Cyga,Gieras,Gieras,Second,Gieras,-1,1,1,-1,-1,NaN,3,2
+14,Top 32,Round 1,Ifante,Phil Wizard,Ifante,Phil Wizard,Phil Wizard,Second,Phil Wizard,1,1,1,1,1,NaN,0,5
+15,Top 32,Round 1,Axel,Mini Joe,Axel,Mini Joe,Mini Joe,Second,Mini Joe,1,1,1,-1,1,NaN,1,4
+16,Top 32,Round 1,Kastrito,Cheerito,Cheerito,Kastrito,Cheerito,First,Cheerito,1,1,1,1,1,NaN,0,5
+17,Top 16,Round 1,Kid Karam,Gun,Gun,Kid Karam,Kid Karam,Second,Kid Karam,-1,-1,-1,NaN,1,-1,4,1
+17,Top 16,Round 2,Kid Karam,Gun,Gun,Kid Karam,Kid Karam,Second,Kid Karam,1,-1,1,NaN,-1,-1,3,2
+18,Top 16,Round 1,Ayumi,Beetle,Beetle,Ayumi,Ayumi,Second,Ayumi,-1,-1,-1,NaN,-1,-1,5,0
+18,Top 16,Round 2,Ayumi,Beetle,Beetle,Ayumi,Ayumi,Second,Ayumi,-1,-1,-1,NaN,-1,-1,5,0
+19,Top 16,Round 1,Nord Diamond,Dany,Nord Diamond,Dany,Dany,Second,Dany,1,1,1,NaN,1,-1,1,4
+19,Top 16,Round 2,Nord Diamond,Dany,Nord Diamond,Dany,Nord Diamond,First,Dany,1,1,-1,NaN,-1,-1,3,2
+19,Top 16,Round 3,Nord Diamond,Dany,Nord Diamond,Dany,Dany,Second,Dany,1,-1,1,NaN,1,-1,2,3
+20,Top 16,Round 1,Kuzya,Kae,Kae,Kuzya,Kuzya,Second,Kuzya,-1,-1,-1,NaN,-1,-1,5,0
+20,Top 16,Round 2,Kuzya,Kae,Kae,Kuzya,Kuzya,Second,Kuzya,-1,-1,-1,NaN,-1,1,4,1
+21,Top 16,Round 1,Sheku,LB,LB,Sheku,LB,First,LB,1,1,1,NaN,1,1,0,5
+21,Top 16,Round 2,Sheku,LB,LB,Sheku,LB,First,LB,1,1,1,NaN,1,1,0,5
+22,Top 16,Round 1,Lil G,Illz,Illz,Lil G,Lil G,Second,Illz,1,-1,-1,NaN,-1,1,3,2
+22,Top 16,Round 2,Lil G,Illz,Illz,Lil G,Illz,First,Illz,1,1,1,NaN,1,1,0,5
+22,Top 16,Round 3,Lil G,Illz,Illz,Lil G,Illz,First,Illz,1,1,1,NaN,1,1,0,5
+23,Top 16,Round 1,Gieras,Phil Wizard,Phil Wizard,Gieras,Phil Wizard,First,Phil Wizard,-1,1,1,NaN,1,-1,2,3
+23,Top 16,Round 2,Gieras,Phil Wizard,Phil Wizard,Gieras,Phil Wizard,First,Phil Wizard,1,1,1,NaN,1,1,0,5
+24,Top 16,Round 1,Mini Joe,Cheerito,Cheerito,Mini Joe,Cheerito,First,Cheerito,-1,1,1,NaN,-1,1,2,3
+24,Top 16,Round 2,Mini Joe,Cheerito,Cheerito,Mini Joe,Cheerito,First,Cheerito,1,1,1,NaN,1,1,0,5
+25,Top 8,Round 1,Kid Karam,Ayumi,Ayumi,Kid Karam,Kid Karam,Second,Kid Karam,-1,1,-1,NaN,-1,-1,4,1
+25,Top 8,Round 2,Kid Karam,Ayumi,Ayumi,Kid Karam,Kid Karam,Second,Kid Karam,1,-1,-1,NaN,1,-1,3,2
+26,Top 8,Round 1,Dany,Kuzya,Kuzya,Dany,Dany,Second,Kuzya,-1,-1,-1,NaN,-1,1,4,1
+26,Top 8,Round 2,Dany,Kuzya,Kuzya,Dany,Kuzya,First,Kuzya,-1,1,1,NaN,1,1,1,4
+26,Top 8,Round 3,Dany,Kuzya,Kuzya,Dany,Kuzya,First,Kuzya,1,1,1,NaN,1,1,0,5
+27,Top 8,Round 1,LB,Illz,LB,Illz,Illz,Second,Illz,1,1,1,NaN,1,1,0,5
+27,Top 8,Round 2,LB,Illz,LB,Illz,Illz,Second,Illz,1,1,1,NaN,1,1,0,5
+28,Top 8,Round 1,Phil Wizard,Cheerito,Cheerito,Phil Wizard,Phil Wizard,Second,Cheerito,-1,-1,-1,NaN,1,1,3,2
+28,Top 8,Round 2,Phil Wizard,Cheerito,Cheerito,Phil Wizard,Cheerito,First,Cheerito,1,1,1,NaN,1,1,0,5
+28,Top 8,Round 3,Phil Wizard,Cheerito,Cheerito,Phil Wizard,Cheerito,First,Cheerito,1,1,1,NaN,1,1,0,5
+29,Semifinal,Round 1,Kid Karam,Kuzya,Kuzya,Kid Karam,Kid Karam,Second,Kuzya,-1,-1,-1,NaN,-1,-1,5,0
+29,Semifinal,Round 2,Kid Karam,Kuzya,Kuzya,Kid Karam,Kuzya,First,Kuzya,-1,1,1,NaN,1,1,1,4
+29,Semifinal,Round 3,Kid Karam,Kuzya,Kuzya,Kid Karam,Kuzya,First,Kuzya,1,1,1,NaN,1,1,0,5
+30,Semifinal,Round 1,Illz,Cheerito,Cheerito,Illz,Illz,Second,Cheerito,-1,-1,-1,NaN,-1,-1,5,0
+30,Semifinal,Round 2,Illz,Cheerito,Cheerito,Illz,Cheerito,First,Cheerito,1,-1,1,NaN,1,-1,2,3
+30,Semifinal,Round 3,Illz,Cheerito,Cheerito,Illz,Cheerito,First,Cheerito,1,1,-1,NaN,1,1,1,4
+31,Final,Round 1,Kuzya,Cheerito,Kuzya,Cheerito,Cheerito,Second,Cheerito,NaN,NaN,NaN,NaN,NaN,NaN,0,0
