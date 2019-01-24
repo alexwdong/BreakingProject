@@ -1,0 +1,45 @@
+Battle Number,Battle Label,Round,Competitor 1,Competitor 2,First,Second,Round Winner,Round Winner Order,Battle Winner,Swiftrock,Physicx,Dyzee,Moy,Twixx,Renegade,Ronnie Ruen,Fever One,Wicket,Goku,Competitor 1 Votes,Competitor 2 Votes
+1,Top 32,1,Issei,Pocket,Pocket,Issei,Issei,Second,Issei,-1,-1,-1,-1,1,-1,-1,NaN,NaN,NaN,6,1
+2,Top 32,1,Thriller,Cheerito,Cheerito,Thriller,Cheerito,First,Cheerito,-1,1,1,1,1,1,1,NaN,NaN,NaN,1,6
+3,Top 32,1,Roxrite,Dol,Roxrite,Dol,Roxrite,First,Roxrite,-1,-1,1,-1,-1,-1,NaN,1,NaN,NaN,5,2
+4,Top 32,1,Skim,Focus,Focus,Skim,Focus,First,Focus,1,1,1,1,-1,-1,-1,NaN,NaN,NaN,3,4
+5,Top 32,1,Lil Zoo,Taisuke,Lil Zoo,Taisuke,Taisuke,Second,Taisuke,1,-1,1,1,1,1,NaN,-1,NaN,NaN,2,5
+6,Top 32,1,Terra,El Nino,El Nino,Terra,El Nino,First,El Nino,1,1,1,1,1,NaN,1,NaN,NaN,NaN,0,6
+7,Top 32,1,Tricky,Lil G,Lil G,Tricky,Tie,Second,Lil G,1,1,-1,-1,-1,1,0,NaN,NaN,NaN,3,3
+7,Top 32,2,Tricky,Lil G,Lil G,Tricky,Lil G,First,Lil G,1,-1,1,1,1,1,-1,NaN,NaN,NaN,2,5
+8,Top 32,1,Mini Joe,Remind,Remind,Mini Joe,Remind,First,Remind,1,1,1,1,1,1,NaN,1,NaN,NaN,0,7
+9,Top 32,1,Niek,Thesis,Niek,Thesis,Thesis,Second,Thesis,1,1,1,1,NaN,1,1,NaN,-1,NaN,1,6
+10,Top 32,1,Victor,Ben Stacks,Ben Stacks,Victor,Tie,Second,Victor,-1,-1,1,1,1,-1,0,NaN,NaN,NaN,3,3
+10,Top 32,2,Victor,Ben Stacks,Ben Stacks,Victor,Victor,Second,Victor,-1,-1,-1,-1,1,-1,-1,NaN,NaN,NaN,6,1
+11,Top 32,1,Hong 10,Gravity,Hong 10,Gravity,Gravity,Second,Gravity,1,-1,1,1,1,1,1,NaN,NaN,NaN,1,6
+12,Top 32,1,Sunni,Aslan,Aslan,Sunni,Sunni,Second,Sunni,-1,-1,-1,1,-1,NaN,-1,-1,NaN,NaN,6,1
+13,Top 32,1,Kid Colombia,Kleju,Kid Colombia,Kleju,Kid Colombia,First,Kid Colombia,-1,-1,1,1,-1,1,-1,NaN,NaN,NaN,4,3
+14,Top 32,1,Kareem,Robin,Robin,Kareem,Robin,First,Robin,1,1,1,1,-1,-1,-1,NaN,NaN,NaN,3,4
+15,Top 32,1,Morris,Alkolil,Alkolil,Morris,Alkolil,First,Alkolil,-1,1,1,1,1,1,-1,NaN,NaN,NaN,2,5
+16,Top 32,1,Wing,Lussy Sky,Lussy Sky,Wing,Wing,Second,Wing,-1,-1,-1,1,-1,-1,-1,NaN,NaN,NaN,6,1
+17,Top 16,1,Issei,Cheerito,Cheerito,Issei,Issei,Second,Issei,-1,-1,-1,-1,-1,-1,-1,NaN,NaN,NaN,7,0
+18,Top 16,1,Roxrite,Focus,Focus,Roxrite,Roxrite,Second,Roxrite,-1,1,1,1,-1,-1,-1,NaN,NaN,NaN,4,3
+19,Top 16,1,Taisuke,El Nino,El Nino,Taisuke,El Nino,First,El Nino,1,1,1,1,1,1,1,NaN,NaN,NaN,0,7
+20,Top 16,1,Lil G,Remind,Lil G,Remind,Remind,Second,Remind,1,1,1,1,1,1,NaN,NaN,1,NaN,0,7
+21,Top 16,1,Thesis,Victor,Thesis,Victor,Thesis,First,Thesis,-1,1,1,-1,NaN,-1,1,NaN,-1,NaN,4,3
+22,Top 16,1,Gravity,Sunni,Gravity,Sunni,Gravity,First,Gravity,-1,1,-1,-1,-1,NaN,-1,-1,NaN,NaN,6,1
+23,Top 16,1,Kid Colombia,Robin,Robin,Kid Colombia,Robin,First,Robin,1,-1,1,1,1,1,1,NaN,NaN,NaN,1,6
+24,Top 16,1,Alkolil,Wing,Alkolil,Wing,Alkolil,First,Alkolil,-1,-1,NaN,-1,-1,-1,-1,NaN,-1,NaN,7,0
+25,Top 8,1,Issei,Roxrite,Roxrite,Issei,Issei,Second,Issei,-1,1,1,-1,-1,1,-1,NaN,NaN,NaN,4,3
+25,Top 8,2,Issei,Roxrite,Roxrite,Issei,Issei,Second,Issei,-1,1,1,-1,-1,1,-1,NaN,NaN,NaN,4,3
+26,Top 8,1,El Nino,Remind,Remind,El Nino,Remind,First,El Nino,1,1,1,1,1,-1,NaN,NaN,1,NaN,1,6
+26,Top 8,2,El Nino,Remind,Remind,El Nino,El Nino,Second,El Nino,-1,-1,-1,-1,-1,-1,NaN,NaN,-1,NaN,7,0
+26,Top 8,3,El Nino,Remind,Remind,El Nino,El Nino,Second,El Nino,-1,-1,-1,-1,-1,-1,NaN,NaN,-1,NaN,7,0
+27,Top 8,1,Thesis,Gravity,Thesis,Gravity,Thesis,First,Thesis,-1,-1,-1,NaN,NaN,-1,-1,NaN,-1,1,6,1
+27,Top 8,2,Thesis,Gravity,Thesis,Gravity,Gravity,Second,Thesis,1,1,1,NaN,NaN,-1,1,NaN,1,1,1,6
+27,Top 8,3,Thesis,Gravity,Thesis,Gravity,Thesis,First,Thesis,-1,-1,-1,NaN,NaN,-1,-1,NaN,-1,-1,7,0
+28,Top 8,1,Robin,Alkolil,Alkolil,Robin,Robin,Second,Robin,-1,-1,-1,-1,1,-1,1,NaN,NaN,NaN,5,2
+28,Top 8,2,Robin,Alkolil,Alkolil,Robin,Robin,Second,Robin,-1,-1,1,-1,-1,-1,1,NaN,NaN,NaN,5,2
+29,Semifinal,1,Issei,El Nino,Issei,El Nino,Issei,First,Issei,1,-1,-1,-1,-1,-1,-1,NaN,NaN,NaN,6,1
+29,Semifinal,2,Issei,El Nino,Issei,El Nino,El Nino,Second,Issei,1,1,1,1,1,1,-1,NaN,NaN,NaN,1,6
+29,Semifinal,3,Issei,El Nino,Issei,El Nino,Issei,First,Issei,1,-1,-1,-1,1,1,-1,NaN,NaN,NaN,4,3
+30,Semifinal,1,Thesis,Robin,Robin,Thesis,Thesis,Second,Thesis,-1,1,1,-1,-1,-1,-1,NaN,NaN,NaN,5,2
+30,Semifinal,2,Thesis,Robin,Robin,Thesis,Thesis,Second,Thesis,-1,-1,-1,-1,-1,-1,-1,NaN,NaN,NaN,7,0
+31,Final,1,Issei,Thesis,Thesis,Issei,Thesis,First,Thesis,1,1,1,-1,NaN,1,1,NaN,NaN,NaN,1,5
+31,Final,2,Issei,Thesis,Thesis,Issei,Thesis,First,Thesis,1,1,-1,1,NaN,1,1,NaN,NaN,NaN,1,5
+31,Final,3,Issei,Thesis,Thesis,Issei,Issei,Second,Thesis,-1,-1,-1,-1,NaN,-1,-1,NaN,NaN,NaN,6,0
